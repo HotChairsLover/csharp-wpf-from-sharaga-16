@@ -1,0 +1,48 @@
+F:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.exe.config
+F:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.exe
+F:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.pdb
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\MainWindow.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Main.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\App.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_MarkupCompile.cache
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_MarkupCompile.lref
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\MainWindow.baml
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Main.baml
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.g.resources
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture_Store.Properties.Resources.resources
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.csproj.GenerateResource.cache
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.exe
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.pdb
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Item.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_Content.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Item.baml
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Box.g.cs
+F:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Box.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.exe.config
+D:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.exe
+D:\Course_2\МДК05.02\пр16\Furniture Store\bin\Debug\Furniture Store.pdb
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Item.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\ItemInBox.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\MainWindow.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Box.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Main.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\App.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_Content.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_MarkupCompile.cache
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store_MarkupCompile.lref
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Item.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\MainWindow.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Box.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\Main.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\ItemInBox.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.g.resources
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture_Store.Properties.Resources.resources
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.csproj.GenerateResource.cache
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.csproj.CoreCompileInputs.cache
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.exe
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.pdb
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Category.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\CategoryChose.g.cs
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Elements\Category.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Pages\CategoryChose.baml
+D:\Course_2\МДК05.02\пр16\Furniture Store\obj\Debug\Furniture Store.csproj.AssemblyReference.cache
